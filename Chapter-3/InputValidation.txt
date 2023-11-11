@@ -1,0 +1,22 @@
+def collatz(number):
+    if number%2==0:
+        t=number//2
+        print(t)
+        return t
+    else:
+        t=3*number+1
+        print(t)
+        return t
+s=0
+while True:
+    try:
+        if s==0:
+            number=int(input("Enter: "))
+            c=collatz(number)
+            s+=1
+        if s>0:
+            c=collatz(c)
+        if c==1:
+            break
+    except:
+        print("Enter:")
