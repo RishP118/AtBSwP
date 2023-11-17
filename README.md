@@ -15,7 +15,7 @@ The solutions for the questions from Chapter 1 to Chapter 16 are given below.
 | [Chapter-09](https://github.com/RishP118/AtBSwP/tree/main/Chapter-9) | GeoQuest                 | Unattempted |
 | [Chapter-10](https://github.com/RishP118/AtBSwP/tree/main/Chapter-10)| RuskOS                   | Unattempted |
 | [Chapter-11](https://github.com/RishP118/AtBSwP/tree/main/Chapter-11)| TinkerCAD                | Unattempted |
-| [Chapter-12](https://github.com/RishP118/amfoss--tasks/tree/main/task-12) | Godot                    | Unattempted |
+| [Chapter-12]() | Godot                    | Unattempted |
 | [Chapter-13](https://github.com/RishP118/amfoss--tasks/tree/main/task-13) | Vim                      | Completed   |
 | [Chapter-14](https://github.com/RishP118/amfoss--tasks/tree/main/task-14) | Bandit                   | Completed   |
 | [Chapter-15](https://github.com/RishP118/amfoss--tasks/tree/main/task-15) | Project Euler            | Unattempted |
